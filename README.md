@@ -1,1 +1,2 @@
-Repository for Teach-A-Intern Internship Projects.
+# Tech-A-Intern
+Repository for Tech-A-Intern Internship Projects
