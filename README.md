@@ -19,7 +19,5 @@ Welcome to TECH-A-INTERN's web development training program! This repository con
 - **Company LinkedIn:** [TECH-A-INTERN](https://www.linkedin.com/company/tech-a-intern)
 
 ## Contact Information
-- **Your LinkedIn:** [Yash Kumar Talan](https://www.linkedin.com/yash-kumar-talan)
-- **Your Email:** [hello@yashkumar.pro](mailto:hello@yashkumar.pro)
-
-For any questions or clarifications, feel free to reach out to us. Happy coding and best of luck with your training!
+- **LinkedIn:** [Yash Kumar Talan](https://www.linkedin.com/yash-kumar-talan)
+- **Email:** [hello@yashkumar.pro](mailto:hello@yashkumar.pro)
